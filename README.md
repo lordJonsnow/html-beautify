@@ -13,7 +13,7 @@ If MyCodeBeautifier.js library is present, then it beautifies PHP code too.
 
 Additionaly it can also be used to manipulate html, getting tag inner and outer html, attributes, tag names and much more...
 
-To see an example click [here](index.html).
+Check out a live example by opening [index.html](index.html).
 
 ---
 
