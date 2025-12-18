@@ -1,7 +1,7 @@
 # My HTML Beautify
 
 > Original Repos:   
-> - My HTML Beautify: https://github.com/a19836/myhtmlbeautify/   
+> - My HTML Beautify: https://github.com/a19836/my-html-beautify/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
